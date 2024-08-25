@@ -1,0 +1,10 @@
+list=[7,3,5,6,2,1]
+list.sort()
+l=len(list)
+if(len(list)%2==0):
+    median1=list[l//2]
+    median2=list[l//2-1]
+    median=(median1+median2)/2
+else:
+    median=list[l//2]
+print(median)

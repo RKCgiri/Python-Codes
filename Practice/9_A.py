@@ -1,0 +1,6 @@
+l=list(map(int,input("Enter the list items ").split()))
+print(l)
+item=l.pop(4)
+l.insert(2,item)
+l.append(item)
+print(l)

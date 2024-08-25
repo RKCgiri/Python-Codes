@@ -1,0 +1,11 @@
+# f=open("doc.txt",'r')
+# print(f.read(5))
+# print(f.read())
+# print(f.readline())
+# f.close()
+
+f=open("radhe.txt",'a')
+f.write("Radhe krishna radhe krishna krishna krishna hare hare")
+f.close()
+f=open("radhe.txt",'r')
+print(f.read())

@@ -1,0 +1,11 @@
+Generate the average marks(CGPA) of 10 section then plot it using suitable graph.
+B) Write a function to implement Bubble sort.
+39. A) Python program to accept the strings which contains all vowels
+Examples :
+Input : ABeeIghiObhkUul
+Output : Accepted
+B) Delete the second column from a given array and insert the new column in its place.
+40. A) A positive integer d is said to be a factor of another positive integer N if when N is
+divided by d, the remainder obtained is zero. For example, for number 12, there are 6 factors 1,
+2, 3, 4, 6, 12. Every positive integer k has at least two factors, 1 and the number k itself. Given
+two positive integers N and
